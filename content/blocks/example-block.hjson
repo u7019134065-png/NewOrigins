@@ -1,0 +1,12 @@
+type: GenericCrafter
+name: "Example Block"
+description: "Пример блока"
+size: 2
+health: 200
+requirements: [ ["copper", 50] ]
+category: production
+research: copper-wall
+
+craftTime: 60
+outputItem: "lead"
+outputItemAmount: 1
