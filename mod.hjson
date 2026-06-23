@@ -1,0 +1,8 @@
+name: "NewOrigins"
+displayName: "New Origins"
+author: "ЕЕее1406"
+description: "Мод NewOrigins для Mindustry."
+version: "1.0"
+minGameVersion: "150"
+dependencies: []
+hidden: false
